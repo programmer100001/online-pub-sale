@@ -1,0 +1,16 @@
+
+
+**Database Name: shopci**
+
+**Developed by mwenda**
+
+
+
+**Admin Login Details** 
+
+Email	: admin@gmail.com
+Password: admin
+
+just as others open the db folder and run 
+
+
